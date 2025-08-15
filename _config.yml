@@ -1,0 +1,14 @@
+title: "My Minimal Jekyll Blog"
+author: "Your Name"
+description: "A simple, clean Jekyll blog for GitHub Pages."
+baseurl: ""
+url: "https://kosiew.github.io"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
